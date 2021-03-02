@@ -1,4 +1,4 @@
-module github.com/ejfhp/gofpdf
+module github.com/ejfhp/gofpdf/v2
 
 go 1.15
 
